@@ -1,8 +1,8 @@
 repo_name: stackshareiodev/ad_tree-sitter
-report_id: f8fa13ab091f2d1f0beb74509d6c04be
+report_id: 6a0432d7b6c37b0f81e2412c4bb19ad2
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-09T13:13:24+00:00'
+timestamp: '2024-02-12T10:32:23+00:00'
 requested_by: maxbrunsfeld
 provider: github
 branch: master
@@ -86,7 +86,7 @@ tools:
   detection_source_url: https://github.com/stackshareiodev/ad_tree-sitter
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
